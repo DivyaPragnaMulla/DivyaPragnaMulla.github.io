@@ -41,3 +41,19 @@ Nature and Scientific Reports.
 ---
 *Open to data analyst and junior data scientist roles in UK climate tech, 
 environmental consulting, NHS/public health, and remote-global positions.*
+
+
+## 👥 Who it's for
+Recruiters, hiring managers and research collaborators looking for an overview of my environmental data science work, publications and skills.
+
+## 🧰 Built with
+HTML, CSS and JavaScript. Hosted on GitHub Pages.
+
+## ▶️ How to run locally
+Clone the repository with `git clone https://github.com/DivyaPragnaMulla/DivyaPragnaMulla.github.io.git`, then open `index.html` in any browser. No build step or dependencies needed.
+
+## 🗺️ Roadmap
+See [ROADMAP.md](ROADMAP.md) for planned features.
+
+## 📄 License
+MIT. See [LICENSE](LICENSE).
